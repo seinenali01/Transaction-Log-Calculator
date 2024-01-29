@@ -1,6 +1,14 @@
 # Transaction-Log-Calculator
 
-A Python script to calculate the net amount based on a transaction log.
+A Python script that computes the amount of a bank account based on a transaction log console input. The transaction log format is:
+   
+   D 100 
+
+   W 200
+>[!NOTE]
+> **D means: Deposit**
+>
+> **W means: Withdrawl**   
 
 ## Usage
 
